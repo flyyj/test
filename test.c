@@ -1,8 +1,8 @@
-#include <iostream.h>
+#include <stdio.h>
 
 int main()
 {
-  cout<<"hello world!"<<endl;
+  printf("hello world!");
   
   return 0;
 
